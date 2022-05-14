@@ -1,0 +1,23 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+
+body {
+  margin: 0;
+  font-family: manrope;
+  background-color: #000000;
+  margin-left:50px;
+  margin-right:50px;
+  color: #f3f3f3f3;
+} 
+
+.cards-list{
+   display: flex;
+   margin-top: 80px;
+   background-color: #f3f3f3f3;
+   margin-left: -50px;
+   margin-right: -50px;
+}
+
+

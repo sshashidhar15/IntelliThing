@@ -1,0 +1,29 @@
+
+.nav{
+    margin-left:50px;
+    margin-right:50px;
+    display:flex;
+    margin:30px ;
+    align-items: center;
+}
+
+.nav-logo{
+    width: 20%;
+    height: 20%;
+}
+
+.nav-items{
+    display:flex;
+    margin:auto;
+}
+
+.serv-items{
+    margin: 20px;
+}
+  
+.nav-button{
+    width: 80px;
+    height:40px;
+    border-radius: 10px;
+
+}
