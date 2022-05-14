@@ -12,7 +12,7 @@ function HeroContent()
         <section>
 
             <h1 className="hero-header"> One place for all your intelligent machines </h1>   
-            <h4 className="hero-text"> Discovering and connecting them as never before</h4>
+            <h4 className="hero-text"> DDDDDiscovering and connecting them as never before</h4>
 
         </section>
 
